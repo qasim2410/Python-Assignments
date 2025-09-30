@@ -1,0 +1,10 @@
+Key Points
+
+-No Need for front-end coding
+
+-Reactive - your app every time a change is made
+
+-Easy integration with Python libraries like Pandas, Numpy, and Matplotlib
+
+30-40
+
